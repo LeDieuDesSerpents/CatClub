@@ -147,10 +147,21 @@ h3 {
 #footer{
   padding: 7% 15%;
   background-color: #fff;
-  color: grey;
+  color: #grey;
   text-align: center;
 }
 
 .social-icon{
   margin: 20px 10px;
+}
+
+.footer-link{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color: #EAF6F6;
 }
